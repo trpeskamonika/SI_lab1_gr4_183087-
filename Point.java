@@ -3,7 +3,8 @@ class Point {
 	double x,y;
 
 	//TODO add new variable
-
+public static void main(String args[]){String s="Red";
+	System.out.println(s); }
 	//TODO constructor
 
 	//TODO setters and getters
@@ -14,8 +15,17 @@ class Point {
 
 	public void draw () {
 		//TODO
-	}
+		
 
 
 
-}
+} 
+
+
+
+
+
+
+
+
+
